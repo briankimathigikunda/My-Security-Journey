@@ -1,4 +1,4 @@
-# My-Security-Journey
+
 # My Home Lab Setup Guide
 
 ## Objective
